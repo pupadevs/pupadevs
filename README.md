@@ -1,4 +1,4 @@
-5<h1 align="center">Hi 👋, I'm Peterson Andres Sena</h1>
+<h1 align="center">Hi 👋, I'm Peterson Andres Sena</h1>
 <h3 align="center">A passionate delovoper from Dominican republica born in barcelona for 2014.Learning together</h3>
 <img  src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" width="400" >
 
@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elpupas&" alt="elpupas" /></p>
 
-5525
+
