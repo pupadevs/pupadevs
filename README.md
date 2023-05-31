@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elpupas" alt="elpupas" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **Eternals**
 
 - 📫 How to reach me **petersonsena24@gmail.com**
 
