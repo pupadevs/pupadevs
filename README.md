@@ -24,7 +24,9 @@
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>   
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>  
+ <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" height="50" /></a>  
+ 
 </div>
 
 </td><td valign="top" width="33%">
@@ -43,6 +45,9 @@
 <a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" height="50" /></a>
 <a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/json/#000000" alt="JSON" height="50" /></a>
 <a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" height="50" /></a>
+ <a href="https://docs.oracle.com/en/java/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" height="50" /></a>
+  
 
 </div>
 
