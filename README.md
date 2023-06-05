@@ -1,4 +1,4 @@
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox<h1 align="center">Hi 👋, I'm Peterson Andres Sena</h1>
+https://github-profile-trophy.vercel.app/?username=elpupas-ma&theme=gruvbox<h1 align="center">Hi 👋, I'm Peterson Andres Sena</h1>
 <h3 align="center">A future developer from the Dominican Republic 🇩🇴 living in Barcelona since 2014. Let's learn together</h3>
 <img  src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" width="400" >
 
