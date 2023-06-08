@@ -20,7 +20,7 @@ I'm a Dominican native who has been calling Barcelona home for the past 17 years
 
 
 
-<p align="center"> <a href="https://github.com/elpupas/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elpupas&theme=monokai" alt="elpupas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elpupas&theme=monokai"/></a> </p>
 
 
 
