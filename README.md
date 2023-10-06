@@ -4,16 +4,6 @@ Peterson Andres Sena Arias: Dominican Programmer and Music Enthusiast</h1>
 <h3 align="center">
 👋 Hello there! You can call me Peterson, Peter, or even Pupa. Why Pupa, you may ask? Well, just like insects go through a transformative stage called pupa during metamorphosis, I'm constantly striving to evolve and improve myself.
 
-I'm a Dominican native who has been calling Barcelona home for the past 17 years. I'm a passionate programmer and music lover, constantly seeking new opportunities to learn and share ideas with fellow creative minds.
-
-💻 Programming is my playground, where I get to explore the endless possibilities of turning ideas into tangible digital solutions. With a diverse skill set encompassing various programming languages and technologies, I enjoy diving into projects that challenge me to think outside the box and push the boundaries of what's possible.
-
-🎵 When I'm not immersed in code, you'll often find me lost in the world of music. Whether it's playing an instrument, exploring new genres, or attending live performances, music is an integral part of my life. I believe that the harmonies and rhythms of music fuel my creativity and bring a unique perspective to my work as a programmer.
-
-🌟 Above all, I thrive on collaboration and the exchange of ideas. I'm always excited to connect with like-minded individuals who share a passion for technology, programming, and the arts. Let's join forces, learn from each other, and create something extraordinary together!
-
-✨ So, feel free to reach out and let's embark on a journey of innovation, learning, and meaningful connections. Together, we can make a positive impact on the world through the fusion of programming and creativity. Remember, just like a pupa, I'm always striving to evolve and become a better version of myself. Let's evolve together and embrace the beauty of continuous improvement!r
-
 
 📫 How to reach me **petersonsena24@gmail.com**</h3>
 
