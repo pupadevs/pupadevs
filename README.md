@@ -1,68 +1,108 @@
-![Header](./github-header-image.png)
+# Hi, I'm Peterson Andres Sena! 👋
+## 💻🎶 Coder by Day, Rapper by Night
+
+## 🧙‍♂️ Back-End Wizard with Full-Stack Sparkles
+
+ I'm a Junior Back-End wizard with the magic needed to bring apps to life, and some magical touches in the full-stack world. ✨🔮
+
+## 💻 About me
+
+My passion for programming drives me to explore the mysteries of the back-end while spreading sparks of knowledge across the web development cosmos - always on the lookout for new spells and challenges!
+
+
+## 🌟 What I do
+
+Between spells and spells in code, I venture into creating powerful and magical applications. Also, I'm always willing to learn new skills and share my wisdom with other apprentice wizards! ✨🌈
+
+Welcome to my GitHub profile! 🚀
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elpupas&label=Profile%20views&color=0e75b6&style=flat" alt="elpupas" /> </p>
-<h1 align="center">Hi 👋, I'm
-Peterson Andres Sena Arias: Dominican Programmer and Music Enthusiast</h1>
-<h3 align="center">
-👋 Hello there! You can call me Peterson, Peter, or even Pupa. Why Pupa, you may ask? Well, just like insects go through a transformative stage called pupa during metamorphosis, I'm constantly striving to evolve and improve myself.
 
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena) 
+[![Gmail](https://img.shields.io/badge/Gmail-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)](mailto:petersonsenasena24@gmail.com)
 
-📫 How to reach me **petersonsena24@gmail.com**</h3>
-
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elpupas&theme=monokai"/></a> </p>
+## :globe_with_meridians: Languages and Linguistic Skills
+[![Native Spanish](https://img.shields.io/badge/Native_Spanish-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=1E90FF&color=1E90FF)](#)
+[![Intermediate English](https://img.shields.io/badge/Intermediate_English-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=32CD32&color=32CD32)](#)
+[![Intermediate Catalan](https://img.shields.io/badge/Intermediate_Catalan-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF69B4&color=FF69B4)](#)
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/peterson-andres-sena-arias-215944221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peterson-andres-sena-arias-215944221" height="50" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![visual studio](https://img.shields.io/badge/Vscode-100000?style=for-the-badge&logo=visual%20studio&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://code.visualstudio.com/)
+[![GIT]( https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=GIT&logoColor=FFFFFF&labelColor=000000&color=000000)](https://git-scm.com/)
+[![Eclipse](https://img.shields.io/badge/eclipse-100000?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF&labelColor=E4991B&color=E4991B)](https://eclipseide.org/)
+[![XAMPP](https://img.shields.io/badge/Xampp-100000?style=for-the-badge&logo=XAMPP&logoColor=FFFFFF&labelColor=F1970F&color=F1970F)](https://www.apachefriends.org/es/index.html)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+[![phpmyadmin](https://img.shields.io/badge/PhpMyadmin-100000?style=for-the-badge&logo=phpmyadmin&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://www.phpmyadmin.net/)
+[![composer](https://img.shields.io/badge/composer-100000?style=for-the-badge&logo=composer&logoColor=FFFFFF&labelColor=000000&color=000000)](https://getcomposer.org/)
+[![Tailwind](https://img.shields.io/badge/tailwind_css-100000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=1A81EA&color=1A81EA)](https://tailwindcss.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<table><tr><td valign="top" width="33%">
+## :toolbox: Additional Tools and Technologies
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) 
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Json](https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=JSON&logoColor=FFFFFF&labelColor=1CC3A5&color=000000)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
+  ### :toolbox: Upcoming or New Studies in Technologies or Tools
+ ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB) ![On the Radar](https://img.shields.io/badge/ON_THE_RADAR-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=17A037&color=17A037)
+ ![Swift](https://img.shields.io/badge/Swift-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343&color=FA7343) ![On the Radar](https://img.shields.io/badge/ON_THE_RADAR-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=17A037&color=17A037)
+ ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED) ![Exploring](https://img.shields.io/badge/EXPLORING-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=F08D00&color=F08D00)
+ ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB) ![Exploring](https://img.shields.io/badge/EXPLORING-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=F08D00&color=F08D00)
+
+
+# 🧰 Soft Skills:
+[![Teamwork](https://img.shields.io/badge/Teamwork-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FFA500&color=FFA500)](#)
+[![Creativity](https://img.shields.io/badge/Creativity-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=800080&color=800080)](#)
+[![Hardwork](https://img.shields.io/badge/Hardwork-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=008000&color=008000)](#)
+[![Communication](https://img.shields.io/badge/Communication-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=00BFFF&color=00BFFF)](#)
+[![Problem Solving](https://img.shields.io/badge/Problem_Solving-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF6347&color=FF6347)](#) 
+[![Adaptability](https://img.shields.io/badge/Adaptability-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FFD700&color=FFD700)](#)
+
+# :globe_with_meridians: Languages and Linguistic Skills
+[![Native Spanish](https://img.shields.io/badge/Native_Spanish-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=1E90FF&color=1E90FF)](#)
+[![Intermediate English](https://img.shields.io/badge/Intermediate_English-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=32CD32&color=32CD32)](#)
+[![Intermediate Catalan](https://img.shields.io/badge/Intermediate_Catalan-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF69B4&color=FF69B4)](#)
 
 
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/bootstrap/#7952B3" alt="Bootstrap" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/css3/#1572B6" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/html5/#E34F26" alt="HTML5" height="50" /></a>  
- <a href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" target="_blank"><img style="margin: 15px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" height="50" /></a>  
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
- 
-</div>
-
-</td><td valign="top" width="33%">
 
 
 
-### Backend  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>   
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.phpmyadmin.net/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/phpmyadmin/#6C78AF" alt="phpMyAdmin" height="50" /></a>
-<a href="https://www.w3schools.com/js/js_json_intro.asp" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/json/#000000" alt="JSON" height="50" /></a>
-<a href="https://www.SQLite.com/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/SQLite/#003B57" alt="SQLite" height="50" /></a>
- <a href="https://docs.oracle.com/en/java/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="50" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" height="50" /></a>
-  
 
-</div>
 
-</td></tr></table>  
 
-<br/>
-<!--<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
--->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elpupas&show_icons=true&locale=en&layout=compact" alt="elpupas" /></p>
+![](https://github-readme-stats.vercel.app/api?username=elpupas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elpupas&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elpupas&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elpupas&show_icons=true&locale=en" alt="elpupas" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=elpupas&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elpupas&" alt="elpupas" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=elpupas&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=elpupas&icon=0&color=6)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
