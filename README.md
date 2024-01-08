@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elpupas&label=Profile%20views&color=0e75b6&style=flat" alt="elpupas" /> </p>
 <h1 align="center">Hi 👋, I'm
 Peterson Andres Sena Arias: Dominican Programmer and Music Enthusiast</h1>
