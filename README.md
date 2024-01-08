@@ -2,7 +2,7 @@
   <img src="https://images.vexels.com/media/users/3/251214/isolated/lists/0ef522e49c195d3e826b4525b820c7a3-insignias-de-mago-1.png" alt="Fondo">
 </p>
 
-# Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="60" height="60" />
+# Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="40" height="40" />
 
 ## 💻🎶 Coder by Day, Rapper by Night 
 
