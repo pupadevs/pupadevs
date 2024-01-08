@@ -28,10 +28,6 @@ Welcome to my GitHub profile! 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena) 
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)](mailto:petersonsenasena24@gmail.com)
 
-## :globe_with_meridians: Languages and Linguistic Skills
-[![Native Spanish](https://img.shields.io/badge/Native_Spanish-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=1E90FF&color=1E90FF)](#)
-[![Intermediate English](https://img.shields.io/badge/Intermediate_English-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=32CD32&color=32CD32)](#)
-[![Intermediate Catalan](https://img.shields.io/badge/Intermediate_Catalan-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF69B4&color=FF69B4)](#)
 
 
 
