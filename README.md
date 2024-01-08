@@ -1,5 +1,10 @@
-# Hi, I'm Peterson Andres Sena! 👋
-## 💻🎶 Coder by Day, Rapper by Night
+<p align="center">
+  <img src="https://images.vexels.com/media/users/3/251214/isolated/lists/0ef522e49c195d3e826b4525b820c7a3-insignias-de-mago-1.png" alt="Fondo">
+</p>
+
+# Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="60" height="60" />
+
+## 💻🎶 Coder by Day, Rapper by Night 
 
 ## 🧙‍♂️ Back-End Wizard with Full-Stack Sparkles
 
@@ -99,10 +104,7 @@ Welcome to my GitHub profile! 🚀
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=elpupas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=elpupas&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
