@@ -17,7 +17,7 @@ My passion for programming drives me to explore the mysteries of the back-end wh
 
 ## 🌟 What I do
 
-Between spells and spells in code, I venture into creating powerful and magical applications. Also, I'm always willing to learn new skills and share my wisdom with other apprentice wizards! ✨🌈
+Between spells and charms in code, I venture into creating powerful and magical applications. Also, I'm always willing to learn new skills and share my wisdom with other apprentice wizards! ✨🌈
 
 Welcome to my GitHub profile! 🚀
 
