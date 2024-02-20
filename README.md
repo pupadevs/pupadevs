@@ -4,7 +4,6 @@
 
 # Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="40" height="40" />
 
-## 💻🎶 Coder by Day, Rapper by Night 
 
 ## 🧙‍♂️ Back-End Wizard with Full-Stack Sparkles
 
