@@ -61,13 +61,6 @@ Welcome to my GitHub profile! 🚀
 ![Json](https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=JSON&logoColor=FFFFFF&labelColor=1CC3A5&color=000000)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-  ### :toolbox: Upcoming or New Studies in Technologies or Tools
-- ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB&color=3776AB) ![On the Radar](https://img.shields.io/badge/ON_THE_RADAR-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=17A037&color=17A037)
-- ![Swift](https://img.shields.io/badge/Swift-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white&labelColor=FA7343&color=FA7343) ![On the Radar](https://img.shields.io/badge/ON_THE_RADAR-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=17A037&color=17A037)
-- ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED&color=2496ED) ![Exploring](https://img.shields.io/badge/EXPLORING-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=F08D00&color=F08D00)
-- ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=61DAFB&color=61DAFB) ![Exploring](https://img.shields.io/badge/EXPLORING-100000?style=for-the-badge&logo=&logoColor=FFFFFF&labelColor=F08D00&color=F08D00)
-
-
 # 🧰 Soft Skills:
 [![Teamwork](https://img.shields.io/badge/Teamwork-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FFA500&color=FFA500)](#)
 [![Creativity](https://img.shields.io/badge/Creativity-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=800080&color=800080)](#)
