@@ -3,19 +3,6 @@
 # Hi, I'm Peterson Andres Sena! (Pupa) <img src="https://cdn-icons-png.flaticon.com/512/9997/9997685.png" width="40" height="40" />
 
 
-## 🧙‍♂️ Back-End Wizard with Full-Stack Sparkles
-
- I'm a Junior Back-End wizard with the magic needed to bring apps to life, and some magical touches in the full-stack world. ✨🔮
-
-## 💻 About me
-
-My passion for programming drives me to explore the mysteries of the back-end while spreading sparks of knowledge across the web development cosmos - always on the lookout for new spells and challenges!
-
-
-## 🌟 What I do
-
-Between spells and charms in code, I venture into creating powerful and magical applications. Also, I'm always willing to learn new skills and share my wisdom with other apprentice wizards! ✨🌈
-
 Welcome to my GitHub profile! 🚀
 
 
@@ -24,7 +11,6 @@ Welcome to my GitHub profile! 🚀
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peterson-sena) 
 [![Gmail](https://img.shields.io/badge/Gmail-100000?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=FF0000&color=FF0000)](mailto:petersonsenasena24@gmail.com)
-
 
 
 
