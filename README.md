@@ -45,13 +45,6 @@ Welcome to my GitHub profile! 🚀
 ![Json](https://img.shields.io/badge/JSON-100000?style=for-the-badge&logo=JSON&logoColor=FFFFFF&labelColor=1CC3A5&color=000000)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-# 🧰 Soft Skills:
-[![Teamwork](https://img.shields.io/badge/Teamwork-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FFA500&color=FFA500)](#)
-[![Creativity](https://img.shields.io/badge/Creativity-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=800080&color=800080)](#)
-[![Hardwork](https://img.shields.io/badge/Hardwork-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=008000&color=008000)](#)
-[![Communication](https://img.shields.io/badge/Communication-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=00BFFF&color=00BFFF)](#)
-[![Problem Solving](https://img.shields.io/badge/Problem_Solving-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FF6347&color=FF6347)](#) 
-[![Adaptability](https://img.shields.io/badge/Adaptability-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=FFD700&color=FFD700)](#)
 
 # :globe_with_meridians: Languages and Linguistic Skills
 [![Native Spanish](https://img.shields.io/badge/Native_Spanish-%23000000.svg?style=for-the-badge&logoColor=white&labelColor=1E90FF&color=1E90FF)](#)
