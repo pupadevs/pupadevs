@@ -16,22 +16,24 @@ Welcome to my GitHub profile! 🚀
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 [![visual studio](https://img.shields.io/badge/Vscode-100000?style=for-the-badge&logo=visual%20studio&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://code.visualstudio.com/)
-[![GIT]( https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=GIT&logoColor=FFFFFF&labelColor=000000&color=000000)](https://git-scm.com/)
-[![Eclipse](https://img.shields.io/badge/eclipse-100000?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF&labelColor=E4991B&color=E4991B)](https://eclipseide.org/)
+[![GIT](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=GIT&logoColor=FFFFFF&labelColor=000000&color=000000)](https://git-scm.com/)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-100000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF&labelColor=000000&color=000000)](https://www.jetbrains.com/idea/)
 [![XAMPP](https://img.shields.io/badge/Xampp-100000?style=for-the-badge&logo=XAMPP&logoColor=FFFFFF&labelColor=F1970F&color=F1970F)](https://www.apachefriends.org/es/index.html)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 [![phpmyadmin](https://img.shields.io/badge/PhpMyadmin-100000?style=for-the-badge&logo=phpmyadmin&logoColor=FFFFFF&labelColor=213460&color=1E356C)](https://www.phpmyadmin.net/)
 [![composer](https://img.shields.io/badge/composer-100000?style=for-the-badge&logo=composer&logoColor=FFFFFF&labelColor=000000&color=000000)](https://getcomposer.org/)
 [![Tailwind](https://img.shields.io/badge/tailwind_css-100000?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&labelColor=1A81EA&color=1A81EA)](https://tailwindcss.com/)
+[![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 
 ## :toolbox: Additional Tools and Technologies
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
